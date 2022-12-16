@@ -3,7 +3,7 @@
 /**
  * binary_tree_postorder - traverses a tree with .
  * @tree: root node to begin traversal at.
- * @func: function to call 
+ * @func: function to call
  */
 void binary_tree_postorder(const binary_tree_t *tree, void (*func)(int))
 {
